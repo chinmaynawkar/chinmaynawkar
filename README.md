@@ -3,15 +3,19 @@
 <h3 align="center">💻 Front-end Wizard | 💡 UI Design | iOS Enthusiast 📱</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/0*BLwJcjZxounn0T8D.gif")>
 
+[![Linkedin Badge](https://img.shields.io/badge/-chinmaynawkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinmay-nawkar/)](https://www.linkedin.com/in/chinmay-nawkar/)
+[![Gmail Badge](https://img.shields.io/badge/cnawkar19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cnawkar19@gmail.com)](mailto:cnawkar19@gmail.com) 
+
 <p align="left"> <a href="https://twitter.com/nawkarchinmay" target="blank"><img src="https://img.shields.io/twitter/follow/nawkarchinmay?logo=twitter&style=for-the-badge" alt="nawkarchinmay" /></a> </p>
 
 - 🔭 I’m currently working on [FlashChat App](https://youtu.be/Ms3XojE8KVg)
 
-- 🌱 I’m currently learning **iOS Development**
+- 🌱 I’m currently learning **Data Structures & iOS Development**
+-  💬 Ask me about **UI/UX Designs, Swift , AIPrompts**
 
 - 📫 Find me here : **cnawkar19@gmail.com**
 - [To view my resume, please click this link.](https://drive.google.com/file/d/1uQy3g8hs8k-IzsVWPesJ0-ysZzPUJKRU/view?usp=sharing)
-- ⚡ Fun fact **I have a passion for user experience design**
+- ⚡ Fun fact **"My code has a sense of humor – it laughs at my attempts to refactor! 😂💻"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
