@@ -14,7 +14,7 @@
 -  💬 Ask me about **UI/UX Designs, Swift , AIPrompts**
 
 - 📫 Find me here : **cnawkar19@gmail.com**
-- [To view my resume, please click this link.](https://drive.google.com/file/d/1uQy3g8hs8k-IzsVWPesJ0-ysZzPUJKRU/view?usp=sharing)
+- [To view my resume, please click this link.](https://drive.google.com/file/d/1Y5qD5a7adCuaWWcl8sQXqDSVRNySHXP3/view?usp=sharing)
 - ⚡ Fun fact **"My code has a sense of humor – it laughs at my attempts to refactor! 😂💻"**
 
 <h3 align="left">Connect with me:</h3>
