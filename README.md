@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [FlashChat App](https://youtu.be/Ms3XojE8KVg)
 
-- 🌱 I’m currently learning **Data Structures & iOS Development**
+- 🌱 I’m currently learning **Data Structures & MERN**
 -  💬 Ask me about **UI/UX Designs, Swift , AIPrompts**
 
 - 📫 Find me here : **cnawkar19@gmail.com**
