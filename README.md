@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif)
 <h1 align="center">Hi 👋, I'm Chinmay Nawkar</h1>
-<h3 align="center">💻 Front-end Wizard | 💡 UI Design | iOS Enthusiast 📱</h3>
+<h3 align="center">💻 Front-end Wizard | 💡 Learning Backend | iOS Enthusiast 📱</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/0*BLwJcjZxounn0T8D.gif")>
 
 [![Linkedin Badge](https://img.shields.io/badge/-chinmaynawkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinmay-nawkar/)](https://www.linkedin.com/in/chinmay-nawkar/)
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [FlashChat App](https://youtu.be/Ms3XojE8KVg)
 
-- 🌱 I’m currently learning **Data Structures & MERN**
+- 🌱 I’m currently learning **MERN**
 -  💬 Ask me about **UI/UX Designs, Swift , AIPrompts**
 
 - 📫 Find me here : **cnawkar19@gmail.com**
