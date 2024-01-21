@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [FlashChat App](https://youtu.be/Ms3XojE8KVg)
 
 - 🌱 I’m currently learning **MERN**
--  💬 Ask me about **UI/UX Designs, Swift , AIPrompts**
+-  💬 Ask me about **MERN, Swift , AIPrompts**
 
 - 📫 Find me here : **cnawkar19@gmail.com**
 - [To view my resume, please click this link.](https://drive.google.com/file/d/13rvzX7DXmVGKuGNatI0L-ppKwT3UKg8I/view?usp=sharing)
