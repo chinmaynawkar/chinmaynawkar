@@ -15,6 +15,7 @@
 
 - 📫 Find me here : **cnawkar19@gmail.com**
 - [To view my resume, please click this link.](https://drive.google.com/file/d/13rvzX7DXmVGKuGNatI0L-ppKwT3UKg8I/view?usp=sharing)
+- [Visit my Portfolio](https://chinmay-nextjs-portfolio.vercel.app/#)
 - ⚡ Fun fact **"My code has a sense of humor – it laughs at my attempts to refactor! 😂💻"**
 
 <h3 align="left">Connect with me:</h3>
