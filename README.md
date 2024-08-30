@@ -36,7 +36,6 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chinmaynawkar&theme=chartreuse-dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaynawkar&theme=chartreuse-dark&hide_border=false" /> 
-  <img src="https://raw.githubusercontent.com/avayyyyyyy/avayyyyyyy/output/snake.svg" alt="Snake animation" />
 </td>
 
 </tr>
