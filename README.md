@@ -10,8 +10,8 @@
 
 - 🔭 I’m building full stack apps
 
-- 🌱 I’m currently learning **Zero Knowledge Proofs**
--  💬 Ask me about **MERN, Circom , AIPrompts**
+- 🌱 I’m currently learning **HLD and System Design Concepts**
+-  💬 Ask me about **MERN, UI/UX , AIPrompts**
 
 - 📫 Find me here : **cnawkar19@gmail.com**
 - [To view my resume, please click this link.](https://drive.google.com/file/d/1eNDPieDM4MOd3ftpP_K6yMkAgZKvnOUR/view?usp=sharing)
